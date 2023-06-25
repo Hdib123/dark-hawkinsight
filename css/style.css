@@ -1,0 +1,30 @@
+#supportlogo {
+    position: absolute;
+    top: 30%;
+    right: 0;
+    margin-top: -40px;
+    width: 100px;
+    height: 100px;
+	left: 0;
+}
+#powerbilogo {
+    position: absolute;
+    top: 30%;
+    right: 0;
+    margin-top: -20px;
+    width: 100px;
+    height: 100px;
+}
+#infotext2 {
+    text-align: right;
+    padding-right: 0%;
+    padding-left: 30%;
+}
+
+#subtitle {
+    margin-top: 0px;
+    margin-bottom: 62px;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+}
+

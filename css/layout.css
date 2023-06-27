@@ -32,7 +32,7 @@
 	
 	a { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 		font-weight: bold;
-		color: #0303c2;
+		color: #0071c2;
 		text-decoration: none;
 		-webkit-transition: color 0.1s linear, background-color 0.1s linear;
 		   -moz-transition: color 0.1s linear, background-color 0.1s linear;
@@ -84,14 +84,14 @@
 	
 	.vertical-align { display: table-cell; vertical-align: middle; }
 	
-	.color-text { color: #0303c2; }
+	.color-text { color: #0071c2; }
 	
-	::-moz-selection { background: #0303c2; color: white; }
-	::selection { background: #0303c2; color: white; }
+	::-moz-selection { background: #0071c2; color: white; }
+	::selection { background: #0071c2; color: white; }
 	
 	.slider { margin: 44px 0 44px 0; overflow: hidden;}
 	
-	#loading a { display: block; padding: 7px 0; margin: 20px 0 60px 0; background: #0303c2; color: #1a1c1e; text-align: center; font-size: 18px; -webkit-font-smoothing: antialiased; }
+	#loading a { display: block; padding: 7px 0; margin: 20px 0 60px 0; background: #0071c2; color: #1a1c1e; text-align: center; font-size: 18px; -webkit-font-smoothing: antialiased; }
 		#loading a:hover { background: #4e5257; color: white; }
 
 
@@ -107,8 +107,8 @@
 	header nav ul#navigation { padding-top: 57px; }
 		header nav ul#navigation.pull-right > li { display: inline-block; margin-left: 18px; font-size: 18px; letter-spacing: -1px; -webkit-font-smoothing: antialiased; }
 			header nav ul#navigation.pull-right > li > a { color: white; padding-top: 53px; }
-			header nav ul#navigation.pull-right > li > a:hover { color: #0303c2; }
-			header nav ul#navigation.pull-right > li > a.active { border-top: 4px solid #0303c2; color: #0303c2; }
+			header nav ul#navigation.pull-right > li > a:hover { color: #0071c2; }
+			header nav ul#navigation.pull-right > li > a.active { border-top: 4px solid #0071c2; color: #0071c2; }
 			
 			
 		/* Dropmenu Navigation ------------------------------------------ */
@@ -136,11 +136,11 @@
 		footer p { line-height: 1.3; display: block; float: left; }
 			footer nav li {display: inline-block; position: relative; top: -2px; }
 			footer nav li a { margin-left: 18px; font-size: 14px; letter-spacing: -1px; color: white; -webkit-font-smoothing: antialiased; }
-			footer nav li a.active { color: #0303c2; }
+			footer nav li a.active { color: #0071c2; }
 	
 	.theme-author { font-size: 11px; }
 		.theme-author a { color: #ccced0; }
-		.theme-author a:hover { color: #0303c2; }
+		.theme-author a:hover { color: #0071c2; }
 
 
 	/* Titles ------------------------------------------ */
@@ -239,7 +239,7 @@
 	}
 	
 	.social-icons li a:hover {
-		background: #0303c2;
+		background: #0071c2;
 		color: #232527;
 	}
 
@@ -367,7 +367,7 @@
 		position: absolute;
 		width: 50px;
 		height: 50px;
-		background: #0303c2;
+		background: #0071c2;
 		opacity: 0;
 		filter: alpha(opacity=0);
 		-webkit-border-radius: 4px;
@@ -448,7 +448,7 @@
 	
 	#yellow-line  {
 		width: 100%;
-		background: #0303c2;
+		background: #0071c2;
 		margin: 75px 0 50px 0;
 	}
 	
@@ -479,7 +479,7 @@
 		overflow: hidden;
 		font-size: 32px;
 		line-height: 1.8;
-		color: #0303c2;
+		color: #0071c2;
 		background: #1a1c1e;
 		-webkit-border-radius: 50%;
 		   -moz-border-radius: 50%;
@@ -541,12 +541,12 @@
 	
 	#yellow-line .social-icons li a {
 		background: #232527;
-		color: #0303c2;
+		color: #0071c2;
 	}
 	
 	#yellow-line .social-icons li a:hover {
 		background: white;
-		color: #0303c2;
+		color: #0071c2;
 	}
 
 
@@ -626,7 +626,7 @@
 		position: absolute;
 		width: 100%;
 		height: 100%;
-		background: #0303c2;
+		background: #0071c2;
 		opacity: 0;
 		filter: alpha(opacity=0);
 		-webkit-transition: all 0.1s linear;
@@ -649,7 +649,7 @@
 	
 	.profile-wrp .profile-name {
 		font-size: 18px;
-		color: #0303c2;
+		color: #0071c2;
 		margin: 0 20px 2px 20px;
 		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 		font-weight: bold;
@@ -687,7 +687,7 @@
 		}
 	
 	.profile-wrp .overlay-wrp {
-		background: #0303c2;
+		background: #0071c2;
 		height: 440px;
 		-webkit-font-smoothing: antialiased;
 		position: absolute;
@@ -817,7 +817,7 @@
 	}
 	
 	.blog-post h4 a:hover {
-		color: #0303c2;
+		color: #0071c2;
 	}
 	
 	.blog-post p {
@@ -964,7 +964,7 @@
 	}
 	
 	.comment-info a.time:hover {
-		color: #0303c2;
+		color: #0071c2;
 	}
 	
 	.comment-text p {
@@ -1008,7 +1008,7 @@
 	height: 20px;
 	font-size: 14px;
 	margin: 14px 20px 2px 20px;
-	color: #0303c2;
+	color: #0071c2;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	letter-spacing: 0;
@@ -1028,7 +1028,7 @@
 }
 
 .project-wrp .overlay-wrp {
-	background: #0303c2;
+	background: #0071c2;
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -1168,7 +1168,7 @@ a.launch i.icon-link {
 	overflow: hidden;
 	width: 30px;
 	height: 30px;
-	background: #0303c2;
+	background: #0071c2;
 	text-align: center;
 	color: #1a1c1e;
 	line-height: 2.2;
@@ -1291,7 +1291,7 @@ a.launch:hover {
 }
 
 .process-circle.direction {
-	background: #0303c2;
+	background: #0071c2;
 	color: #1a1c1e;
 	opacity: 0;
 	filter: alpha(opacity=0);
@@ -1341,7 +1341,7 @@ a.heart-circle {
 	overflow: hidden;
 	width: 80px;
 	height: 80px;
-	background: #0303c2;
+	background: #0071c2;
 	color: #1a1c1e;
 	text-align: center;
 	font-size: 42px;

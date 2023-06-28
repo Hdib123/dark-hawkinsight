@@ -69,7 +69,7 @@ body {
 }
 
 .br-next:hover , .br-previous:hover{
-	background-color: #0303c2;
+	background-color: #034fc2;
 }
 
 .br-previous{
@@ -131,6 +131,7 @@ body {
 	left: -36px;
 	top:-143px;
 	position: relative;
+	display: none;
 }
 
 	.br-thumb-bottom .br-thumb-frame { 

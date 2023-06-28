@@ -28,3 +28,6 @@
     -webkit-font-smoothing: antialiased;
 }
 
+#contactbutton {
+    left: 85% !important;
+}

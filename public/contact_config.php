@@ -1,4 +1,4 @@
 <?php
 // To
-define("WEBMASTER_EMAIL", 'your_name@domain.com');
+define("orcadrak85@gmail.com", 'contact@hawk-insight.com');
 ?>

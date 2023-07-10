@@ -1417,8 +1417,8 @@ input[type="file"] {
 select {
 	width: 220px;
 	border: 1px solid #373a3d;
-	background-color: white;
-	color: #4e5257;
+	background-color: #0071c2;
+	color: #d0d3d6;
 }
 
 select[multiple],

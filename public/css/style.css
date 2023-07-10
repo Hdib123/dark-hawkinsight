@@ -31,6 +31,14 @@
 #contactbutton {
     left: 85% !important;
 }
+@media (max-width: 479px) {
+  #contactbutton{
+    left: 65% !important;
+  }
+  .span5 {
+    margin-bottom: 102px !important;
+  }
+}
 
 
 

@@ -85,23 +85,11 @@
 				<div class="result">
 				</div>
 				
-				<form action="https://formsubmit.co/contact@hawk-insight.fr" method="POST" class="well iefix">
-					<div class="row">
-						<div class="span2 pull-left">
-							<label>Nom</label>
-							<input class="span2" type="text" name="name" placeholder="Name">
-							<label>E-mail</label>
-							<input class="span2" type="text" name="email" placeholder="E-mail">
-							<label>Sujet</label>
-							<input class="span2" type="text" name="subject" placeholder="Subject">
-						</div>
-						<div class="span6 pull-right">
-							<label>Message</label>
-							<textarea class="span6" rows="6" name="message" placeholder="Message"></textarea>
-							<button type="submit" class="btn rounded"><i class="icon-envelope-alt"></i>Envoyer</button>
-						</div>
-					</div>
-				</form>
+				<form action="https://formsubmit.co/contact@hawk-insight.fr" method="POST">
+					<input type="text" name="name" required>
+					<input type="email" name="email" required>
+					<button type="submit">Send</button>
+			   </form>
 			</div>
 		</div>
 	</section>
